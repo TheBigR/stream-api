@@ -1,3 +1,16 @@
 {
-    "streams": []
+  "streams": [
+    {
+      "title": "creep ",
+      "description": "am i a creep? Hell No!",
+      "userId": "106959778809462808413",
+      "id": 6
+    },
+    {
+      "title": "how do you?",
+      "description": "how do you do?",
+      "userId": "106959778809462808413",
+      "id": 7
+    }
+  ]
 }
